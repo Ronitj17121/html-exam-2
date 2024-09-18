@@ -1,0 +1,77 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url("images/testimonial.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 10%;
+}
+.box
+{
+    height: 450px;
+    width: 350px;
+    background-color: #262626;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    border: dotted;
+    border-color: white;
+}
+.roundbox
+{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 75%;
+    top: 30%;
+}
+.roundbox img
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+h1
+{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: right;
+}
+.name
+{
+    
+}
+h3
+{
+    font-size: 20px;
+    color: yellow;
+    margin-top: 44%;
+}
+.pr
+{
+    
+}
+p
+{
+    font-size: 20px;
+    color: white;
+    margin-top: 3%;
+    text-align: center;
+}
+.box2
+{
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    color: green;
+    
+}
